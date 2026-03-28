@@ -1,4 +1,4 @@
-# Case Study 
+# Case Study For Time Series Forecasting 
 Leading economic indicators, such as the stock market or the housing market, often change prior to large economic adjustments. For example, arise in stock prices often means that investors are more confident of future growth in the economy. Or a fall in building permits is likely a signal that the housing market is weakening—which is often a sign that other sectors of the economy are on the downturn. 
 Consider what happened prior to the 2008 recession. As early as October 2006, building permits for new homes were down 28% from October 2005. Analysts use economic indicators to predict future trends and gauge where the economy is heading. The information provided by economic indicators helps firms implement or alter business strategies.
 
